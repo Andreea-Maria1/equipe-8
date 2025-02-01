@@ -33,6 +33,6 @@ Robot autonome comme les roombas
 
 # 🎨 Esthétique du robot :
 
-![Robot Image](IMG_6988.jpg)
+![Robot Image](IMG_6998.jpg)
 
 # 📚 Références :
